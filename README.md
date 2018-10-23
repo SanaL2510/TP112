@@ -27,7 +27,7 @@ To run this application, the following libraries must be downloaded:
 - requests
 - urllib
 
-All of these are included in the setup.bat script included with this download. Please run setup.bat before using the app. 
+All of these are included in the setup.bat script included with this download. Please run setup.bat before using the app. THe main file, GUI.py, also contains other files that were used for this project and were written by the author. Contact me directly for those files. 
 
 Photos sent via text message are first uploaded to flickr and sent as a url to the user. For the purposes of this Term Project,
 I will be clearing my flickr profile every 24 hours to make sure photos uploaded are not public. However, be warned that this 
